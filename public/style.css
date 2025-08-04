@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background: #f8f8f8;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+select {
+    padding: 8px;
+    margin-bottom: 10px;
+}
