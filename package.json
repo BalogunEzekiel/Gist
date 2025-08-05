@@ -12,3 +12,7 @@
     "speech-to-text": "^0.7.3"
   }
 }
+
+"engines": {
+  "node": "18.x"
+}
